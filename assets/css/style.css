@@ -1,0 +1,20 @@
+html, body {
+	margin: 0px auto;
+	padding: 0px;
+	text-align: center;
+	width: 500px;
+	background-color: rgb(96,102,127);
+}
+
+h1 {
+	font-family: Arial;
+	background-color: rgb(116,142,255);
+	color: white;
+}
+#game {
+	border: 5px solid gray;
+}
+#wins, #losses, #guessesLeft, #guessesSoFar {
+	background-color: rgb(192,204,255);
+
+}
